@@ -1,9 +1,7 @@
 # Park Battlefield
+workshop-task-4.2
 
 web URL: https://odessso.github.io/workshop-task-4.2/
-
-# workshop-task-4.2
-
 
 ## Task Description:
 
